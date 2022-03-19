@@ -1,6 +1,6 @@
 ﻿# WeatherApp
 
-## find weather by city
+## find weather by city input ##
 
  ## Features ##
   * Autocomplete of Serach (start with min 3 letters).
